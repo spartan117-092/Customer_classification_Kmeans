@@ -47,3 +47,4 @@ if st.button('Predict'):
         st.success('High Spending Customer')
     else:
         st.info('Low Spending Customer')
+
